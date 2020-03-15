@@ -1,0 +1,136 @@
+body{
+  margin: 0;
+  padding: 0;
+  width:1000px;
+  height: 100vh;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.0f3ggMwRSjQhdbmPqomFkAHaNJ&pid=Api&P=0&w=300&h=300");
+  background-size: cover;
+
+}
+.container-sopra{
+  width: 800px;
+  height: 250px;
+  margin:3px;
+  padding: 10px;
+}
+.container-sotto{
+  width: 800px;
+  height: 250px;
+  margin:3px;
+  padding: 10px;
+}
+.uno{
+  width: 200px;
+  height:200px;
+  background-color: yellow;
+  margin-bottom: 60px;right: 400px;
+  display: inline-block;
+  background-image: url("https://tse1.mm.bing.net/th?id=OIP.ZG5amB90PLspU6jfW29vrAHaHa&pid=Api&P=0&w=300&h=300");
+  background-size: cover;
+}
+/*.uno:hover h1{
+  display: block;
+  text-decoration: line-through;
+
+}*/
+.due{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  margin-bottom:60px;
+  display: inline-flex;
+  background-image: url("https://tse4.mm.bing.net/th?id=OIP.QKmcHRcT7pvr6JMko90_BgHaEK&pid=Api&P=0&w=293&h=166");
+  background-size: cover;
+}
+.tre{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-bottom: 60px;
+  display: inline-flex;
+  position: relative;
+  background-image: url("https://tse1.mm.bing.net/th?id=OIP.ahkhQFz7egYWYZJQCWCBKAHaD4&pid=Api&P=0&w=331&h=175");
+  background-size: cover;
+
+}
+.quatro{
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+  display: inline-block;
+  margin-bottom: 70px;
+  background-image: url("https://tse1.mm.bing.net/th?id=OIP.KmD4N_qXvUBf6nkeeDuKfQHaD4&pid=Api&P=0&w=296&h=156");
+  background-size: cover;
+  margin-bottom: 215px;
+}
+.cinque{
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  margin-bottom: 470px;right: 15;
+  display: inline-block;
+  background-image: url("https://tse2.mm.bing.net/th?id=OIP.M3msck6n1NSCS0jtWyW8UQHaF5&pid=Api&P=0&w=218&h=174");
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  margin-bottom: 215px;
+
+}
+.sei{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin-bottom: 470px;
+  display: inline-block;
+  background-image: url("https://tse1.mm.bing.net/th?id=OIP.SDD91KbbuX8UoiJrB6iVYAHaEK&pid=Api&P=0&w=291&h=165");
+  background-size: cover;
+  position: relative;
+  margin-bottom: 215px;
+}
+#sconto{
+  position: absolute;
+  margin: 5px;
+  width: 30px;
+  height: 20px;
+  border-color: black;
+  background-color: lightgreen;
+  /*margin-left: 170px;*/
+  text-align: center;
+  padding: 5px;
+}
+#sconto-rosso{
+  background-color: red;
+  position: absolute;
+  margin: 5px;
+  width: 30px;
+  height: 20px;
+  border-color: black;
+  /*margin-left: 170px;*/
+  text-align: center;
+  padding: 5px;
+}
+p{
+  color: red ;
+  font-size: 10px;
+  text-align: justify;
+  position: relative;
+
+}
+#sconto-rosso p{
+  color: black ;
+  font-size: 10px;
+  text-decoration-style: dashed;
+  text-align: justify;
+  position: relative;
+
+}
+
+/*.reklam{
+  background-image:url("https://tse3.mm.bing.net/th?id=OIP.3gzPdcxP7WD0gPh9c1XaGwAAAA&pid=Api&P=0&w=300&h=300");
+  width: 250px;
+  height: 300px;
+  background-color: red;
+  position: relative;
+  margin-left:1055px;bottom: 210px;
+  display: inline-block;
+}
